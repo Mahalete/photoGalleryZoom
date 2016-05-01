@@ -1,0 +1,39 @@
+[
+  {
+    "date": "05/08/2000",
+    "id": "image1",
+    "src": "img/rain1.jpg",
+    "title": "Image caption 1 here"
+  },
+  {
+    "date": "15/01/2010",
+    "id": "image2",
+    "src": "img/rain2.jpg",
+    "title": "Image caption 2 here"
+  },
+  {
+    "date": "12/04/2009",
+    "id": "image3",
+    "src": "img/rain3.jpg",
+    "title": "Image caption 3 here"
+  },
+  {
+    "date": "31/05/2016",
+    "id": "image4",
+    "src": "img/rain4.jpg",
+    "title": "Image caption 4 here"
+  },
+  {
+    "date": "15/09/2010",
+    "id": "image5",
+    "src": "img/sun1.jpg",
+    "title": "Image caption 5 here"
+  },
+  {
+    "date": "01/12/2015",
+    "id": "image6",
+    "src": "img/sun2.jpg",
+    "title": "Image caption 6 here"
+  },
+
+]
